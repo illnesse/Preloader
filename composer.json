@@ -20,7 +20,6 @@
         }
     ],
     "require": {
-        "php": "^7.4",
         "ext-json": "*",
         "symfony/finder": "^4.3||^5.0.5"
     },
